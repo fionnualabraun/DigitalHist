@@ -12,5 +12,5 @@ Fixed site not running by changing port from 4000 to 4001 in config, can now upd
 bundle exec jekyll serve --livereload --port 4001
 ```
 
-Now I can access my updated site online by going to localhost:4001/DigitalHist/ (had to fix to put a space in the port number and the :
+Now I can access my updated site online by going to localhost:4001/DigitalHist/ (had to fix to put a space in the port number and the : which is good.
 
